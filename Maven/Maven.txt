@@ -1,0 +1,11 @@
+下载：
+https://maven.apache.org/download.cgi
+
+
+配置:
+系统环境变量M2_HOME， 并设置其值为你安装的目录
+更新系统PATH 变量， 添加;%M2_HOME%\bin;
+
+
+注意：
+若重新安装或者修改maven的路径，需要重新配置环境变量中的M2_HOME

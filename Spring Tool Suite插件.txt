@@ -1,0 +1,5 @@
+http://spring.io/tools/sts/all
+
+
+update sites:
+http://dist.springsource.com/release/TOOLS/update/e4.6/

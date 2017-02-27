@@ -1,0 +1,5 @@
+API:
+http://api.jqueryui.com/
+
+обть:
+http://jqueryui.com/download/

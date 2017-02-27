@@ -1,0 +1,11 @@
+http://www.oracle.com/technetwork/java/javase/downloads/index.html
+
+
+JAVA_HOME:	
+	安装jdk的根目录
+
+PATH:添加
+	%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;
+
+CLASSPATH:	
+	.;%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar

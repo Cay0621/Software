@@ -1,0 +1,12 @@
+http://tomcat.apache.org/
+
+
+配置：
+CATALINA_HOME:
+	安装目录或者解压目录
+
+PATH:添加
+	%CATALINA_HOME%\bin;%CATALINA_HOME%\lib;
+
+Tomcat_HOME：
+	同CATALINA_HOME一样

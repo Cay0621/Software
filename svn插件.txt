@@ -1,0 +1,1 @@
+http://download.eclipse.org/technology/subversive/4.0/update-site/

@@ -1,0 +1,1 @@
+http://download.aptana.com/studio3/plugin/install

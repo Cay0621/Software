@@ -1,0 +1,37 @@
+缩进：						CTRL + ]
+取消缩进：					CTRL + [
+
+交换行：						CTRL + SHIFT + UP/DOWN
+复制行到下一行：				CTRL + SHIFT + D
+删除行：						CTRL + SHIFT + K
+
+注释：						CTRL + /
+
+在下面添加一行：				CTRL + Enter
+在上面添加一行：				CTRL + SHIFT + Enter
+
+删除后面的单词到空格结束：		CTRL + Delete
+删除之前的单词到空格结束：		CTRL + Backspace
+删除到行尾：					CTRL + K，CTRL + K
+删除到行首：					CTRL + K，CTRL + Backspace
+		
+转大写：						CTRL + K， CTRL + U
+转小写：						CTRL + K， CTRL + L
+
+选中整行：					CTRL + L
+选中行到空格结束：				CTRL + D
+快速查找：					CTRL + D(连续敲)
+查找上一个：					SHIFT + F3
+查找下一个：					F3
+选中全部匹配性：				ALT + F3
+替换：						CTRL + H
+
+选择与光标关联的开始和结束标签：	CTRL + SHIFT + ’
+选择容器内内容：				CTRL + SHIFT + A
+选择括号内的内容：				CTRL + SHIFT + M
+粘贴并保持缩进：				CTRL + SHIFT + V
+用标签包裹行或选中项：			ALT + SHIFT+ W	
+移除未闭合的容器元素：			CTRL + SHIFT + ;
+计算数学表达式：				CTRL + SHIFT + Y
+递增和递减(+/- 10)：			ALT + SHIFT + UP/DOWN
+递增和递减(+/- 1)：				CTRL + UP/DOWN 
